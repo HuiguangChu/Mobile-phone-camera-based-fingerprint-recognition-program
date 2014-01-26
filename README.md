@@ -1,0 +1,4 @@
+Mobile-phone-camera-based-fingerprint-recognition-program
+=========================================================
+
+ This is an android application for mobile phone camera based fingerprint recognition using OpenCV. However, i am sorry that due to  the code is not allowed to be distributed, therefore it is invisible.
